@@ -1,0 +1,5 @@
+Hola !
+Es importante saber que: 
+
+En la carpeta Base de datos se encuentra la BD.
+En la carpeta Dist se encuentra el Ejecutable y también una carpeta llamada "lib" con todas las librerías.
